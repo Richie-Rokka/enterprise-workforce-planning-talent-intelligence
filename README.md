@@ -132,10 +132,11 @@ Provide enterprise-wide visibility into workforce supply, workforce demand, staf
 ### Dashboard Preview
 
 ```markdown
+
 ![Strategic Workforce Planning](assets/page1-workforce-planning.png)
 
 ```
-assets/page1-workforce-planning.png
+
 ---
 
 # ⚠️ Page 2 — Workforce Risk & Retention Analytics
@@ -180,7 +181,9 @@ Identify workforce vulnerabilities, attrition drivers, and retention risks befor
 ### Dashboard Preview
 
 ```markdown
+
 ![Workforce Risk & Retention Analytics](assets/page2-retention-analytics.png)
+
 ```
 
 ---
@@ -226,7 +229,9 @@ Measure recruitment effectiveness and assess whether hiring capacity can meet fo
 ### Dashboard Preview
 
 ```markdown
+
 ![Talent Acquisition & Recruitment Intelligence](assets/page3-talent-acquisition.png)
+
 ```
 
 ---
