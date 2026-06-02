@@ -364,8 +364,8 @@ Data Analyst | Business Intelligence Analyst | Workforce Analytics
 
 ### 🔗 Connect With Me
 
-* LinkedIn: *Add LinkedIn URL*
-* GitHub: *Add GitHub URL*
+* LinkedIn: www.linkedin.com/in/abodunrin-oketade
+* GitHub:https://github.com/Richie-Rokka
 
 ---
 
