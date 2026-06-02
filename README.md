@@ -1,6 +1,16 @@
 # 🚀 Enterprise Workforce Planning & Talent Intelligence Platform
 
-> A strategic workforce intelligence solution built in Power BI to help organizations balance workforce supply, forecast staffing demand, identify retention risks, and optimize talent acquisition performance.
+### From Workforce Supply to Hiring Execution — A Unified Workforce Intelligence Solution
+
+Built a multi-page Power BI platform that helps workforce leaders answer three critical questions:
+
+✅ Do we have enough workforce capacity to meet future demand?
+
+✅ Which departments face the greatest retention risk?
+
+✅ Can recruiting close projected staffing gaps?
+
+The solution integrates workforce planning, attrition analytics, and talent acquisition intelligence across **5,000 employees**, **8 departments**, and **24 months of workforce activity**.
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi\&logoColor=black)
 ![DAX](https://img.shields.io/badge/DAX-Analytics-blue)
@@ -32,23 +42,35 @@ The solution enables executives, HR leaders, workforce planners, and talent acqu
 
 ---
 
+## Why This Project Matters
+
+Most HR dashboards report what happened.
+
+This platform was designed to support what happens next.
+
+By connecting workforce supply, attrition risk, and recruitment capacity into a single decision-support framework, leaders can move from reactive reporting to proactive workforce planning.
+
+The result is a workforce intelligence solution that supports strategic hiring decisions, retention planning, and organizational growth.
+
+---
+
 ## 🎯 Business Challenge
 
 Organizations face increasing workforce challenges including:
 
-* Workforce shortages
-* Rising employee attrition
-* Hiring delays
-* Recruitment bottlenecks
-* Capacity constraints
-* Increasing workforce utilization pressure
+Workforce shortages
+Rising employee attrition
+Hiring delays
+Recruitment bottlenecks
+Capacity constraints
+Increasing workforce utilization pressure
 
 Without integrated workforce intelligence, decision-makers struggle to answer critical questions:
 
-* Do we have enough workforce capacity to meet future demand?
-* Which departments are most vulnerable to attrition?
-* Where should hiring efforts be prioritized?
-* Can recruitment capacity close forecasted workforce gaps?
+Do we have enough workforce capacity to meet future demand?
+Which departments are most vulnerable to attrition?
+Where should hiring efforts be prioritized?
+Can recruitment capacity close forecasted workforce gaps?
 
 This project was designed to answer those questions through a unified analytics framework.
 
@@ -91,7 +113,7 @@ Evaluate hiring effectiveness, recruitment bottlenecks, hiring demand, and candi
 
 ---
 
-# 🏢 Page 1 — Strategic Workforce Planning Command Center
+## 🏢 Page 1 — Strategic Workforce Planning Command Center
 
 ### Objective
 
@@ -135,7 +157,7 @@ Provide enterprise-wide visibility into workforce supply, workforce demand, staf
 
 ---
 
-# ⚠️ Page 2 — Workforce Risk & Retention Analytics
+## ⚠️ Page 2 — Workforce Risk & Retention Analytics
 
 ### Objective
 
@@ -180,7 +202,7 @@ Identify workforce vulnerabilities, attrition drivers, and retention risks befor
 
 ---
 
-# 🎯 Page 3 — Talent Acquisition & Recruitment Intelligence
+## 🎯 Page 3 — Talent Acquisition & Recruitment Intelligence
 
 ### Objective
 
@@ -249,25 +271,25 @@ Measure recruitment effectiveness and assess whether hiring capacity can meet fo
 
 ---
 
-# 🎯 Strategic Recommendations
+# 📌 Strategic Takeaways
 
-### Workforce Planning
+## Workforce Planning
 
-* Prioritize hiring investment in Operations and Maintenance.
-* Align workforce forecasting with quarterly business planning cycles.
-* Monitor workforce coverage as a leading indicator of staffing risk.
+- Workforce demand exceeded available capacity by **2,735 positions**.
+- Operations and Maintenance represented the largest staffing pressure points.
+- Workforce coverage remained below target despite sustained hiring activity.
 
-### Retention
+## Workforce Risk & Retention
 
-* Implement targeted retention strategies for high-risk departments.
-* Address burnout and career progression concerns through workforce engagement initiatives.
-* Establish department-level attrition monitoring and intervention programs.
+- Enterprise attrition reached **14%**.
+- Attrition risk was concentrated within operational functions.
+- High-risk employees represented a significant workforce exposure.
 
-### Talent Acquisition
+## Talent Acquisition
 
-* Reduce time-to-fill through recruitment workflow optimization.
-* Expand sourcing channels for hard-to-fill positions.
-* Improve applicant-to-hire conversion through stronger candidate screening and targeting.
+- Recruitment capacity covered **88.2%** of forecasted hiring demand.
+- Planning and IT experienced the greatest hiring bottlenecks.
+- Candidate conversion efficiency remains a major opportunity for improvement.
 
 ---
 
@@ -318,15 +340,19 @@ Measure recruitment effectiveness and assess whether hiring capacity can meet fo
 
 ---
 
-# 🚀 Business Impact
+## 🎯 Decision Impact
 
 This platform enables workforce leaders to:
 
-* Forecast workforce shortages before operational impact occurs
-* Identify departments with elevated attrition exposure
-* Prioritize hiring resources based on workforce demand
-* Monitor recruitment effectiveness against hiring requirements
-* Align workforce planning, retention, and talent acquisition strategies
+- Forecast staffing shortages before operational impact occurs
+- Identify departments with elevated attrition exposure
+- Prioritize hiring investments based on workforce demand
+- Monitor recruitment effectiveness against forecasted hiring needs
+- Balance workforce supply, retention, and talent acquisition strategies
+
+### Executive Outcome
+
+Rather than managing workforce planning, retention, and recruitment separately, decision-makers gain a single view of workforce health across the employee lifecycle.
 
 ---
 
@@ -343,16 +369,6 @@ This platform enables workforce leaders to:
 * KPI Framework Design
 * Executive Dashboard Development
 * Strategic Business Intelligence
-
----
-
-# 🔮 Future Enhancements
-
-* Predictive Attrition Modeling
-* Workforce Scenario Planning
-* Skills Gap Analysis
-* AI-Powered Workforce Risk Scoring
-* Recruitment Forecasting Models
 
 ---
 
