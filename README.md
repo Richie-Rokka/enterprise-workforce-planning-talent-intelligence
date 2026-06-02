@@ -58,19 +58,19 @@ The result is a workforce intelligence solution that supports strategic hiring d
 
 Organizations face increasing workforce challenges including:
 
-Workforce shortages
-Rising employee attrition
-Hiring delays
-Recruitment bottlenecks
-Capacity constraints
-Increasing workforce utilization pressure
+* Workforce shortages
+* Rising employee attrition
+* Hiring delays
+* Recruitment bottlenecks
+* Capacity constraints
+* Increasing workforce utilization pressure
 
 Without integrated workforce intelligence, decision-makers struggle to answer critical questions:
 
-Do we have enough workforce capacity to meet future demand?
-Which departments are most vulnerable to attrition?
-Where should hiring efforts be prioritized?
-Can recruitment capacity close forecasted workforce gaps?
+* Do we have enough workforce capacity to meet future demand?
+* Which departments are most vulnerable to attrition?
+* Where should hiring efforts be prioritized?
+* Can recruitment capacity close forecasted workforce gaps?
 
 This project was designed to answer those questions through a unified analytics framework.
 
