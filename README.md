@@ -271,25 +271,22 @@ Measure recruitment effectiveness and assess whether hiring capacity can meet fo
 
 ---
 
-# 📌 Strategic Takeaways
+# 🎯 Strategic Recommendations
 
 ## Workforce Planning
-
-- Workforce demand exceeded available capacity by **2,735 positions**.
-- Operations and Maintenance represented the largest staffing pressure points.
-- Workforce coverage remained below target despite sustained hiring activity.
-
-## Workforce Risk & Retention
-
-- Enterprise attrition reached **14%**.
-- Attrition risk was concentrated within operational functions.
-- High-risk employees represented a significant workforce exposure.
+* Prioritize hiring investment in Operations and Maintenance.
+* Align workforce forecasting with quarterly business planning cycles.
+* Monitor workforce coverage as a leading indicator of staffing risk.
+  
+## Retention
+* Implement targeted retention strategies for high-risk departments.
+* Address burnout and career progression concerns through workforce engagement initiatives.
+* Establish department-level attrition monitoring and intervention programs.
 
 ## Talent Acquisition
-
-- Recruitment capacity covered **88.2%** of forecasted hiring demand.
-- Planning and IT experienced the greatest hiring bottlenecks.
-- Candidate conversion efficiency remains a major opportunity for improvement.
+* Reduce time-to-fill through recruitment workflow optimization.
+* Expand sourcing channels for hard-to-fill positions.
+* Improve applicant-to-hire conversion through stronger candidate screening and targeting.
 
 ---
 
