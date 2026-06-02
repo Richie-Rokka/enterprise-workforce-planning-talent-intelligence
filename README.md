@@ -133,8 +133,9 @@ Provide enterprise-wide visibility into workforce supply, workforce demand, staf
 
 ```markdown
 ![Strategic Workforce Planning](assets/page1-workforce-planning.png)
-```
 
+```
+assets/page1-workforce-planning.png
 ---
 
 # ⚠️ Page 2 — Workforce Risk & Retention Analytics
