@@ -1,5 +1,11 @@
 # 🚀 Enterprise Workforce Planning & Talent Intelligence Platform
 
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi\&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-Analytics-blue)
+![Power Query](https://img.shields.io/badge/Power%20Query-Data%20Transformation-green)
+![People Analytics](https://img.shields.io/badge/People-Analytics-orange)
+![Workforce Planning](https://img.shields.io/badge/Workforce-Planning-red)
+
 ### From Workforce Supply to Hiring Execution — A Unified Workforce Intelligence Solution
 
 Built a multi-page Power BI platform that helps workforce leaders answer three critical questions:
@@ -11,12 +17,6 @@ Built a multi-page Power BI platform that helps workforce leaders answer three c
 ✅ Can recruiting close projected staffing gaps?
 
 The solution integrates workforce planning, attrition analytics, and talent acquisition intelligence across **5,000 employees**, **8 departments**, and **24 months of workforce activity**.
-
-![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi\&logoColor=black)
-![DAX](https://img.shields.io/badge/DAX-Analytics-blue)
-![Power Query](https://img.shields.io/badge/Power%20Query-Data%20Transformation-green)
-![People Analytics](https://img.shields.io/badge/People-Analytics-orange)
-![Workforce Planning](https://img.shields.io/badge/Workforce-Planning-red)
 
 ---
 
